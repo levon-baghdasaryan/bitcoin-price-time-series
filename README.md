@@ -1,1 +1,1 @@
-# bitcoin-price-time-series
+# Predicting Bitcoin price using TensorFlow machine learning library.
